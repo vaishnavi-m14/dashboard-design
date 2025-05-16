@@ -21,7 +21,7 @@ This project showcases an interactive business dashboard designed using Tableau,
 - `Dashboard Summary.pptx` – PowerPoint summary for stakeholders
 
 ## 🖼 Screenshots
-()
+(https://github.com/vaishnavi-m14/dashboard-design/blob/main/Screenshot%202025-05-16%20151328.png)
 
 ## 🔗 Dataset
 The dashboard is built using Tableau’s Sample - Superstore dataset.
